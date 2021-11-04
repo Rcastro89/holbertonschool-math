@@ -1,7 +1,7 @@
-#include"main.h"
+#include"holberton.h"
 /**
- * 
- * 
+ * display_complex_number - complex numbers
+ * @c: number recived
  */
 void display_complex_number(complex c)
 {
